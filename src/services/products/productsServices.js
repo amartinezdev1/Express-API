@@ -1,4 +1,5 @@
 /* eslint-disable no-useless-catch */
+const { v4: uuid } = require('uuid')
 const product = require('../../database/products/product')
 
 const getAllProducts = () => {
@@ -10,6 +11,20 @@ const getAllProducts = () => {
     }
 }
 
+const createNewProduct = (newProduct) => {
+    try {
+        const productToInsert = {
+            ...newProduct,
+            id: uuid()
+        }
+        const createdProduct = product.createOneProduct(productToInsert)
+        return createdProduct
+    } catch (error) {
+        throw error
+    }
+}
+
 module.exports = {
-    getAllProducts
+    getAllProducts,
+    createNewProduct
 }
