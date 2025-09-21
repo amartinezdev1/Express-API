@@ -1,0 +1,148 @@
+{
+    "products": [
+        {
+            "id": "61dbae02-c147-4e28-863c-db7bd402b2d1",
+            "name": "Controller",
+            "price": "$49.99",
+            "category": ["console"],
+            "description": "A high-quality gaming controller with ergonomic design and responsive buttons.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/control.svg"
+        },
+        {
+            "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab51",
+            "name": "GameBoy",
+            "price": "$199.99",
+            "category": ["console"],
+            "description": "A handheld gaming console released by Nintendo.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/gameboy.svg"
+        },
+        {
+            "id": "d8be2362-7b68-4ea4-a1f6-03f8bc4eede8",
+            "name": "Nintendo",
+            "price": "$299.99",
+            "category": ["console"],
+            "description": "A hybrid gaming console released by Nintendo.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/nintendo.svg"
+        },
+        {
+            "id": "a1c4e8f5-3b6e-4f7a-9c3d-2f8b9e6d5f4a",
+            "name": "PlayStation 5",
+            "price": "$499.99",
+            "category": ["console"],
+            "description": "The latest gaming console from Sony.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/ps5.svg"
+        },
+        {
+            "id": "b2d5f6e7-8c9d-4e0f-a1b2-c3d4e5f6a7b8",
+            "name": "Xbox Series X",
+            "price": "$499.99",
+            "category": ["console"],
+            "description": "The latest gaming console from Microsoft.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/xbox.svg"
+        },
+        {
+            "id": "c3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7g",
+            "name": "Nintendo Switch",
+            "price": "$299.99",
+            "category": ["console"],
+            "description": "A hybrid gaming console released by Nintendo.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/switch.svg"
+        },
+        {
+            "id": "d4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7g8h",
+            "name": "Baby Yoda",
+            "price": "$15.00",
+            "category": ["starwars"],
+            "description": "A cute plush toy of Baby Yoda from the Star Wars series.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/babyYoda.svg"
+        },
+        {
+            "id": "e5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7g8h9i",
+            "name": "Darth Vader",
+            "price": "$25.00",
+            "category": ["starwars"],
+            "description": "A detailed action figure of Darth Vader from the Star Wars series.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/darthVader.svg"
+        },
+        {
+            "id": "f6b7c8d9-e0f1-4a2b-3c4d-5e6f7g8h9i0j",
+            "name": "Cup Star Wars",
+            "price": "$20.00",
+            "category": ["starwars"],
+            "description": "A cup featuring characters from the Star Wars series.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/producto1.svg"
+        },
+        {
+            "id": "g7c8d9e0-f1a2-4b3c-4d5e-6f7g8h9i0j1k",
+            "name": "Lego Darth Vader",
+            "price": "$30.00",
+            "category": ["starwars"],
+            "description": "A Lego set featuring Darth Vader from the Star Wars series.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/producto2.svg"
+        },
+        {
+            "id": "h8d9e0f1-a2b3-4c4d-5e6f-7g8h9i0j1k2l",
+            "name": "Figure Yoda",
+            "price": "$10.00",
+            "category": ["starwars"],
+            "description": "A cute figure of Yoda from the Star Wars series.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/producto3.svg"
+        },
+        {
+            "id": "i9e0f1a2-b3c4-4d5e-6f7g-8h9i0j1k2l3m",
+            "name": "Stormtrooper",
+            "price": "$15.00",
+            "category": ["starwars"],
+            "description": "A detailed action figure of a Stormtrooper from the Star Wars series.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/producto4.svg"
+        },
+        {
+            "id": "j0f1a2b3-c4d5-4e6f-7g8h-9i0j1k2l3m4n",
+            "name": "Atari T-Shirt",
+            "price": "$25.00",
+            "category": ["other"],
+            "description": "A comfortable t-shirt featuring the classic Atari logo.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/atari.svg"
+        },
+        {
+            "id": "k1a2b3c4-d5e6-4f7g-8h9i-0j1k2l3m4n5o",
+            "name": "Pikachu Toy",
+            "price": "$20.00",
+            "category": ["other"],
+            "description": "A soft plush toy of Pikachu from the Pokémon series.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/pikachu.svg"
+        },
+        {
+            "id": "l2b3c4d5-e6f7-4g8h-9i0j-1k2l3m4n5o6p",
+            "name": "Reloj",
+            "price": "$15.00",
+            "category": ["other"],
+            "description": "A stylish watch for fitness enthusiasts.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/reloj.svg"
+        },
+        {
+            "id": "m3c4d5e6-f7g8-4h9i-0j1k-2l3m4n5o6p7q",
+            "name": "SNES T-Shirt",
+            "price": "$25.00",
+            "category": ["other"],
+            "description": "A comfortable t-shirt featuring the classic SNES logo.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/snes.svg"
+        },
+        {
+            "id": "n4d5e6f7-g8h9-4i0j-1k2l-3m4n5o6p7q8r",
+            "name": "Sonic Toy",
+            "price": "$10.00",
+            "category": ["other"],
+            "description": "A fun toy featuring Sonic the Hedgehog.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/sonic.svg"
+        },
+        {
+            "id": "o5e6f7g8-h9i0-4j1k-2l3m-4n5o6p7q8r9s",
+            "name": "T-Shirt",
+            "price": "$20.00",
+            "category": ["other"],
+            "description": "A stylish t-shirt for casual wear.",
+            "image": "https://raw.githubusercontent.com/amartinezdev1/SprintAluraGeek/796d76e6e15b01648e957509ae954e502124ed81/assets/tshirt.svg"
+        }
+    ]
+}
