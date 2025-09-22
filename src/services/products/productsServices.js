@@ -24,7 +24,37 @@ const createNewProduct = (newProduct) => {
     }
 }
 
+const getOneProduct = (productId) => {
+    try {
+        const getProduct = product.getOneProduct(productId)
+        return getProduct
+    } catch (error) {
+        throw error
+    }
+}
+
+const updateOneProduct = (productId, changes) => {
+    try {
+        const updatedProduct = product.updateOneProduct(productId, changes)
+        return updatedProduct
+    } catch (error) {
+        throw error
+    }
+}
+
+const deleteOneProduct = (productId) => {
+    try {
+        const deletedProduct = product.deleteOneProduct(productId)
+        return deletedProduct
+    } catch (error) {
+        throw error
+    }
+}
+
 module.exports = {
     getAllProducts,
-    createNewProduct
+    createNewProduct,
+    getOneProduct,
+    updateOneProduct,
+    deleteOneProduct
 }

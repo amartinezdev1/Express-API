@@ -29,11 +29,10 @@ const validateCreated = [
 ]
 
 const validateProductId = [
-    check('id')
+    check('productId')
         .exists()
         .not()
-        .isEmpty()
-        .isUUID(),
+        .isEmpty(),
     (req, res, next) => {
         validateResult(req, res, next)
     }
